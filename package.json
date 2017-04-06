@@ -1,0 +1,25 @@
+{
+  "name": "nationalparkexplorer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukemichaeleisenberg/JS-Final-Project.git"
+  },
+  "author": "Luke Eisenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukemichaeleisenberg/JS-Final-Project/issues"
+  },
+  "homepage": "https://github.com/lukemichaeleisenberg/JS-Final-Project#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "http": "0.0.0",
+    "jquery": "^3.2.1",
+    "request": "^2.81.0"
+  }
+}
